@@ -1,2 +1,2 @@
 # math
-Our math methodes project
+10 методов, готовые под сдачу проекта
